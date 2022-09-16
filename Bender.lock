@@ -1,7 +1,1 @@
-packages:
-  i3c_slave:
-    revision: e82a728f93f9a7d82d2948c7d84f217dec4d4343
-    version: null
-    source:
-      Git: git@github.com:CTOsalvo/i3c-slave-design.git
-    dependencies: []
+packages: {}

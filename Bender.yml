@@ -1,9 +1,6 @@
 package:
   name: i3c
 
-dependencies:
-  i3c_slave:           { git: "git@github.com:CTOsalvo/i3c-slave-design.git", rev: "master" }
-
 
 
 sources:
