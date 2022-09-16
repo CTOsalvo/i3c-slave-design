@@ -1,7 +1,5 @@
 package:
-  name: i3c
-
-
+  name: i3c_slave
 
 sources:
     
